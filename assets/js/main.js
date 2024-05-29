@@ -1,10 +1,4 @@
-/**
-    Item Name: Ekka - Ecommerce HTML Template.
-    Author: ashishmaraviya
-    Version: 3.4
-    Copyright 2023
-	Author URI: https://themeforest.net/user/ashishmaraviya
-**/
+
 
 // Function To Create New Cookie 
 function ecCreateCookie(cookieName,cookieValue,daysToExpire)
